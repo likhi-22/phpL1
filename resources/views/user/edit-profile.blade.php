@@ -2,7 +2,7 @@
 @section('title','edit-profile')
 
 @section('content')
-<h1>UPDATE FORM</h1>
+<h1>UPDATE</h1>
 <div class="container mt-5">
     <div class="row justify-content-center">
         <div class="card">
